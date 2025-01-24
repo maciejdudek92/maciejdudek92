@@ -28,4 +28,6 @@ Here are some ideas to get you started:
   - [YADPM](https://github.com/maciejdudek92/yet-another-django-project-manager) - Django project manager
 - 🔭 I’m currently working on:
   - Trainify (Flutter & Appwrite) - App for personal trainers
+ 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
