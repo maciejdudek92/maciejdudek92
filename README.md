@@ -14,4 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- My projects:
+  - [Misja na Marsa](http://misjanamarsa.pl) - Personal website
+    - Technologies i used:
+      - Python & Django for backend
+      - React (Next.js) for frontend
+      - Flutter for custom CMS
+  - [WeCandles](https://we-candles.com) - Store
+    - Technologies i used:
+      - Python & Django for backend
+      - React (Next.js) for frontend
+      - Flutter for custom CMS
+  - [YADPM](https://github.com/maciejdudek92/yet-another-django-project-manager) - Django project manager
+- 🔭 I’m currently working on:
+  - Trainify (Flutter & Appwrite) - App for personal trainers
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
