@@ -28,6 +28,7 @@ Here are some ideas to get you started:
   - [YADPM](https://github.com/maciejdudek92/yet-another-django-project-manager) - Django project manager
 - 🔭 I’m currently working on:
   - Trainify (Flutter & Appwrite) - App for personal trainers
+  - Panely (Flutter) - Admin dashboard
  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maciejdudek92&layout=pie)](https://github.com/maciejdudek92)
