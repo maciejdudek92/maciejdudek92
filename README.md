@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - My projects:
-  - [Misja na Marsa](http://misjanamarsa.pl) - Personal website
+  - [Misja na Marsa](http://misjanamarsa.pl) - Blog
     - Technologies i used:
       - Python & Django for backend
       - React (Next.js) for frontend
