@@ -2,10 +2,9 @@
 I'm Maciej
 
 ## 👨‍💻 Projects I worked on:
-- [NextLevel Studio](http://nextlevel-studio.pl)) - Business Website
+- [NextLevel Studio](http://nextlevel-studio.pl) - Business Website
   <p align="left"> 
     
-    ![](https://img.shields.io/badge/Django-informational?style=flat&logo=django&logoColor=white&color=C41E3A)
     ![](https://img.shields.io/badge/Next.js-informational?style=flat&logo=nextdotjs&logoColor=white&color=C41E3A)
 
   </p>
