@@ -2,19 +2,27 @@
 I'm Maciej
 
 ## 👨‍💻 Projects I worked on:
-- [Misja na Marsa](http://misjanamarsa.pl) - Blog
+- [NextLevel Studio](http://nextlevel-studio.pl)) - Business Website
   <p align="left"> 
     
     ![](https://img.shields.io/badge/Django-informational?style=flat&logo=django&logoColor=white&color=C41E3A)
     ![](https://img.shields.io/badge/Next.js-informational?style=flat&logo=nextdotjs&logoColor=white&color=C41E3A)
 
   </p>
+
 - [WeCandles](https://we-candles.com) - Store 
   <p align="left"> 
     
     ![](https://img.shields.io/badge/Django-informational?style=flat&logo=django&logoColor=white&color=C41E3A)
     ![](https://img.shields.io/badge/Next.js-informational?style=flat&logo=nextdotjs&logoColor=white&color=C41E3A)
   
+  </p>
+- [Misja na Marsa](http://misjanamarsa.pl) - Blog
+  <p align="left"> 
+    
+    ![](https://img.shields.io/badge/Django-informational?style=flat&logo=django&logoColor=white&color=C41E3A)
+    ![](https://img.shields.io/badge/Next.js-informational?style=flat&logo=nextdotjs&logoColor=white&color=C41E3A)
+
   </p>
 ## 🔭 I’m currently working on:
   - [YADPM](https://github.com/maciejdudek92/yet-another-django-project-manager) - Django project manager
