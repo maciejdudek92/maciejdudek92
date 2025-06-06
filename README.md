@@ -9,7 +9,7 @@ I'm Maciej
 
   </p>
 
-- [WeCandles](https://we-candles.com) - Store 
+- [WeCandles](https://we-candles.com) - Store
   <p align="left"> 
     
     ![](https://img.shields.io/badge/Django-informational?style=flat&logo=django&logoColor=white&color=C41E3A)
