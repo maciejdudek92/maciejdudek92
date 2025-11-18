@@ -2,7 +2,14 @@
 I'm Maciej
 
 ## 👨‍💻 Projects I worked on:
-- [NextLevel Studio](http://nextlevel-studio.pl) - Business Website
+- [Iwona Kitala](https://iwonakitala.pl) - Personal Website
+  <p align="left"> 
+    
+    ![](https://img.shields.io/badge/Next.js-informational?style=flat&logo=nextdotjs&logoColor=white&color=C41E3A)
+
+  </p>
+
+- [NextLevel Studio](https://nextlevel-studio.pl) - Business Website
   <p align="left"> 
     
     ![](https://img.shields.io/badge/Next.js-informational?style=flat&logo=nextdotjs&logoColor=white&color=C41E3A)
