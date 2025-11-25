@@ -13,7 +13,10 @@ I'm Maciej
   <p align="left"> 
     
     ![](https://img.shields.io/badge/Next.js-informational?style=flat&logo=nextdotjs&logoColor=white&color=C41E3A)
-
+    ![](https://img.shields.io/badge/Nextcloud-informational?style=flat&logo=nextcloud&logoColor=white&color=C41E3A)
+    ![](https://img.shields.io/badge/Calcom-informational?style=flat&logo=calcom&logoColor=white&color=C41E3A)
+    ![](https://img.shields.io/badge/n8n-informational?style=flat&logo=n8n&logoColor=white&color=C41E3A)
+    ![](https://img.shields.io/badge/ERPNext-informational?style=flat&logo=erpnext&logoColor=white&color=C41E3A)
   </p>
 
 - [WeCandles](https://we-candles.com) - Store
