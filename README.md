@@ -75,6 +75,7 @@ I'm Maciej
   
   ![](https://img.shields.io/badge/Tools-appwrite-informational?style=flat&logo=appwrite&logoColor=white&color=C41E3A)
   ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=C41E3A)
+  ![](https://img.shields.io/badge/Tools-n8n-informational?style=flat&logo=n8n&logoColor=white&color=C41E3A)
   
 </p>
 
