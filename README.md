@@ -20,37 +20,44 @@ I'm Maciej
 
 - [NextLevel Studio](https://nextlevel-studio.pl) - Business Website
   <p align="left"> 
+    
     ![](https://img.shields.io/badge/Next.js-informational?style=flat&logo=nextdotjs&logoColor=white&color=C41E3A)
   </p>
 
 - [WeCandles](https://we-candles.com) - Store
   <p align="left"> 
+    
     ![](https://img.shields.io/badge/Django-informational?style=flat&logo=django&logoColor=white&color=C41E3A)
     ![](https://img.shields.io/badge/Next.js-informational?style=flat&logo=nextdotjs&logoColor=white&color=C41E3A)
   </p>
 - [Misja na Marsa](http://misjanamarsa.pl) - Blog
   <p align="left"> 
+    
     ![](https://img.shields.io/badge/Django-informational?style=flat&logo=django&logoColor=white&color=C41E3A)
     ![](https://img.shields.io/badge/Next.js-informational?style=flat&logo=nextdotjs&logoColor=white&color=C41E3A)
   </p>
 ## 🔭 I’m currently working on:
   - [YADPM](https://github.com/maciejdudek92/yet-another-django-project-manager) - Django project manager
       <p align="left"> 
+        
         ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=C41E3A)
       </p>
   - Trainify - App for personal trainers
       <p align="left"> 
+        
         ![](https://img.shields.io/badge/Flutter-informational?style=flat&logo=flutter&logoColor=white&color=C41E3A)
         ![](https://img.shields.io/badge/appwrite-informational?style=flat&logo=appwrite&logoColor=white&color=C41E3A)
       </p>
   - [Panely](https://pub.dev/packages/panely)  - Admin dashboard
       <p align="left">  
+        
         ![](https://img.shields.io/badge/Flutter-informational?style=flat&logo=flutter&logoColor=white&color=C41E3A)
       </p>
         
 ## 🔧 Technologies & Tools I use:
 ![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=macos&logoColor=white&color=C41E3A)
 <p align="left"> 
+  
   ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=C41E3A)
   ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=C41E3A)
   ![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=C41E3A)
